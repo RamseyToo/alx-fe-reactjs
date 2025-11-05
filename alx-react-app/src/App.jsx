@@ -13,9 +13,11 @@ function App() {
       <div>
         <h1 className='h1'>
           Thi is my first js project
+          <WelcomeMessage />
         </h1>
         < WelcomeMessage />
       </div>
+      <WelcomeMessage />
     </>
   )
 }
